@@ -6,3 +6,5 @@ TEST README FILE
 - Fun fact: ---
 
 <h1>Hello! Welcome to my GitHub profile.</h1>
+
+<p>My name is Mathias from <img src="https://icons8.com/icon/iUYNm0kbGahw/norway" width="13">Tønsberg, Norway and I am currently studying Front-end Developement online at Noroff.</p>
