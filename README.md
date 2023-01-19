@@ -30,7 +30,7 @@
     <tr>
     <td><a href="https://timesignature.netlify.app">Project Exam 1</a></td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API</td>
-    <td>Delivered, awaiting feed-back</td>
+    <td>Finished</td>
   </tr>
 </table>
 
