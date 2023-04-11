@@ -35,7 +35,8 @@
 </table>
 
 <h3>What am I currently working on</h3>
-<p>Right now I am creating a <b>portfolio</b> to showcase the projects I have worked on the last two years. This portfolio will include a separate web page with information and images of the projects as well as more detailed info in README.md files for each projects here on GitHub. This process also includes the creating of   this <img src="https://user-images.githubusercontent.com/81162745/204544296-71a032b2-8569-43d9-9645-8b6d3c61cae4.png" width="14"/> GitHub profile!</p>
+<p>Right now I am creating a <b>portfolio</b> to showcase the projects I have worked on the last two years. This portfolio will include a separate web page with information and images of the projects as well as more detailed info for each projects here on GitHub.</p>
+<p>In addition to this comes regularly scheduled submissions of tasks, assignments and smaller projects for my studies.</p>
 
 <h3>How to reach me</h3>
 <a href="https://github.com/mherholdt94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
