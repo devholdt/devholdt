@@ -34,7 +34,7 @@
   </tr>
   </tr>
     <tr>
-    <td><a href="mherholdt94.github.io">Portfolio</a></td>
+    <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
     <td>A simple portfolio website displaying some of my recent projects as well as a bit about myself and my contact information</td>
     <td>Never done!</td>
   </tr>
