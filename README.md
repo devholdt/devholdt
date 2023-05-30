@@ -32,11 +32,17 @@
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API</td>
     <td>Finished</td>
   </tr>
+  </tr>
+    <tr>
+    <td><a href="mherholdt94.github.io">Portfolio</a></td>
+    <td>A simple portfolio website displaying some of my recent projects as well as a bit about myself and my contact information</td>
+    <td>Never done!</td>
+  </tr>
 </table>
 
 <h3>What am I currently working on</h3>
-<p>Right now I am creating a <b>portfolio</b> to showcase the projects I have worked on the last two years. This portfolio will include a separate web page with information and images of the projects as well as more detailed info for each projects here on GitHub.</p>
-<p>In addition to this comes regularly scheduled submissions of tasks, assignments and smaller projects for my studies.</p>
+<p>Right now I am tinkering with color schemes, textures, photos and icons in the <b>Design 2</b> course at Noroff.</p>
+<p>In addition to this I am looking into differend backend technologies.</p>
 
 <h3>How to reach me</h3>
 <a href="https://github.com/mherholdt94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
