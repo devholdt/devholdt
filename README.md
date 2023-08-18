@@ -41,8 +41,8 @@
 </table>
 
 <h3>What am I currently working on</h3>
-<p>Right now I am tinkering with color schemes, textures, photos and icons in the <b>Design 2</b> course at Noroff.</p>
-<p>In addition to this I am looking into differend backend technologies.</p>
+<p>Right now I am tinkering with typefaces, fonts and icons in the <b>Design 2</b> course at Noroff.</p>
+<p>In addition to this I am looking into different backend technologies.</p>
 
 <h3>How to reach me</h3>
 <a href="https://github.com/mherholdt94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
