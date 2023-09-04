@@ -1,6 +1,6 @@
 <h1>Hello!<img src="https://user-images.githubusercontent.com/81162745/204531600-e3f43e3e-ffb0-4702-a933-aa78d7ad098b.png" width="30"/> Welcome to my GitHub profile.</h1>
 
-<p>My name is Mathias from <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/> <b>Tønsberg, Norway</b>, and I am currently studying Front-end Developement online at Noroff.</p>
+<p>My name is Mathias from <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/> <b>Tønsberg, Norway</b>, and I am currently studying Front-end Developement full-time at Noroff.</p>
 
 <h3>About me</h3>
 <ul>
@@ -27,13 +27,12 @@
     <td>A website for a fictional science museum based in my home town. The site is catered to inquisitive, curious children and their families</td>
     <td>Finished</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://timesignature.netlify.app">Project Exam 1</a></td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API</td>
     <td>Finished</td>
   </tr>
-  </tr>
-    <tr>
+  <tr>
     <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
     <td>A simple portfolio website displaying some of my recent projects as well as a bit about myself and my contact information</td>
     <td>Never done!</td>
