@@ -40,7 +40,7 @@
 </table>
 
 <h3>What am I currently working on</h3>
-<p>Right now I am tinkering with typefaces, fonts and icons in the <b>Design 2</b> course at Noroff.</p>
+<p>JavaScript 2 course at Noroff, working on localStorage, API, request methods JWT and more...</p>
 <p>In addition to this I am looking into different backend technologies.</p>
 
 <h3>How to reach me</h3>
