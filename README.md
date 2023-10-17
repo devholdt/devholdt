@@ -101,14 +101,19 @@
   </tr>
 </table>
 
+<br>
+
 <h3>What am I currently working on</h3>
-<p>JavaScript 2 course at Noroff, working on localStorage, API, request methods JWT and more...</p>
-<p>In addition to this I am looking into different backend technologies.</p>
+<p>Workflow course at Noroff, working on version control systems (Git), working environment and testing.</p>
+
+<br>
 
 <h3>Where to find me</h3>
 <a href="https://github.com/mherholdt94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mathias-herholdt-b5a5bb204/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Harboldtt" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.codewars.com/users/MHerholdt94" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+
+<br><br>
 
 Last Edit: 17/10/2023
