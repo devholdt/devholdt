@@ -1,14 +1,71 @@
-<h1>Hello!<img src="https://user-images.githubusercontent.com/81162745/204531600-e3f43e3e-ffb0-4702-a933-aa78d7ad098b.png" width="30"/> Welcome to my GitHub profile.</h1>
 
-<p>My name is Mathias from <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/> <b>Tønsberg, Norway</b>, and I am currently studying Front-end Developement full-time at Noroff.</p>
+<h1 align="center"><b>Hello!<img src="https://user-images.githubusercontent.com/81162745/204531600-e3f43e3e-ffb0-4702-a933-aa78d7ad098b.png" width="30"/> I'm Mathias B. Herholdt</b></h1>
 
-<h3>About me</h3>
-<ul>
-  <li>Name: Mathias Barosen Herholdt</li>
-  <li>From: Tønsberg, Norway</li>
-  <li>Hobbies: Music, band, drums, gaming, technology, cats</li>
-  <li>Pronouns: He/Him</li>
-</ul>
+<br>
+
+**About me**
+- From Tønsberg, Norway <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/>
+- Full-Time front-end student at Noroff
+- Music, band, drums, gaming, technology, cats
+- He/Him
+
+<br><br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MHerholdt94&theme=onedark">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHerholdt94&theme=onedark">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  
+  - **Languages**
+    
+ ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+<br>
+
+- **Frameworks**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+
+<br>
+
+- **Softwares and Tools**
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+  <br>
+
+ - **Adobe**
+
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+  
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
 
 <h3>Projects I've worked on lately</h3>
 <table>
@@ -48,7 +105,10 @@
 <p>JavaScript 2 course at Noroff, working on localStorage, API, request methods JWT and more...</p>
 <p>In addition to this I am looking into different backend technologies.</p>
 
-<h3>How to reach me</h3>
+<h3>Where to find me</h3>
 <a href="https://github.com/mherholdt94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mathias-herholdt-b5a5bb204/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Harboldtt" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.codewars.com/users/MHerholdt94" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+
+Last Edit: 17/10/2023
