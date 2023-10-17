@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td><a href="https://jazzy-creponne-3f2db0.netlify.app/">UrSpace</a></td>
-    <td>A simple social media website using the Noroff API to fetch, create, edit, delete, search and filter post content. Search, filter, fetch and edit user profiles also included.</td>
+    <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
     <td>Submitted</td>
   </tr>
   <tr>
