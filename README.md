@@ -20,22 +20,27 @@
   <tr>
     <td><a href="https://gamehubnew.netlify.app">Cross-Course Project</a></td>
     <td>A website for a fictional video game retailer where users can buy and sell games as well as read the latest news from the world of gaming</td>
-    <td>Ongoing</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td><a href="https://tbgsciencemuseum.netlify.app">Semester Project 1</a></td>
     <td>A website for a fictional science museum based in my home town. The site is catered to inquisitive, curious children and their families</td>
-    <td>Finished</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td><a href="https://timesignature.netlify.app">Project Exam 1</a></td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API</td>
-    <td>Finished</td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td><a href="https://jazzy-creponne-3f2db0.netlify.app/">UrSpace</a></td>
+    <td>A simple social media website using the Noroff API to fetch, create, edit and delete post content</td>
+    <td>Submitted</td>
   </tr>
   <tr>
     <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
     <td>A simple portfolio website displaying some of my recent projects as well as a bit about myself and my contact information</td>
-    <td>Never done!</td>
+    <td>🔄</td>
   </tr>
 </table>
 
