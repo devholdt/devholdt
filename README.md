@@ -9,18 +9,9 @@
 - Music, band, drums, gaming, technology, cats
 - He/Him
 
-<br><br>
+<br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MHerholdt94&theme=onedark">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHerholdt94&theme=onedark">
-    </td>
-  </tr>
-</table>
+-----
 
 <br>
 
@@ -61,9 +52,21 @@
 </p>
 
 <br>
-<br>
 
 -----
+
+<br>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MHerholdt94&theme=onedark">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHerholdt94&theme=onedark">
+    </td>
+  </tr>
+</table>
 
 <br>
 
