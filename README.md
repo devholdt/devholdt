@@ -95,7 +95,7 @@
   <tr>
     <td><a href="https://jazzy-creponne-3f2db0.netlify.app/">UrSpace</a></td>
     <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
-    <td>Submitted</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
