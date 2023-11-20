@@ -83,12 +83,12 @@
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://tbgsciencemuseum.netlify.app">Semester Project 1</a></td>
+    <td><a href="https://tbgsciencemuseum.netlify.app">TBG Science Museum</a></td>
     <td>A website for a fictional science museum based in my home town. The site is catered to inquisitive, curious children and their families.</td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://timesignature.netlify.app">Project Exam 1</a></td>
+    <td><a href="https://timesignature.netlify.app">Time/Signature</a></td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API.</td>
     <td>✔️</td>
   </tr>
@@ -96,6 +96,11 @@
     <td><a href="https://jazzy-creponne-3f2db0.netlify.app/">UrSpace</a></td>
     <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
     <td>✔️</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/MHerholdt94/bidify">bidify.</a></td>
+    <td>An auction website where users can view, create and bid on listings using an API to fetch and recieve data.</td>
+    <td>🔄</td>
   </tr>
   <tr>
     <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
@@ -107,7 +112,7 @@
 <br>
 
 <h3>What am I currently working on</h3>
-<p>Workflow course at Noroff, working on version control systems (Git), working environment and testing.</p>
+<p>Working on Bidify, an auction website using an API to fetch and recieve data like listings, bids, user profiles etc. This is for the second semester project at Noroff.</p>
 
 <br>
 
@@ -119,4 +124,4 @@
 
 <br><br>
 
-Last Edit: 31/10/2023
+Last Edit: 20/11/2023
