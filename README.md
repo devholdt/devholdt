@@ -99,7 +99,8 @@
   </tr>
     <tr>
     <td>
-      <a href="https://bidify-auctions.netlify.app/">Repo</a>
+      bidify. <br>
+      <a href="https://bidify-auctions.netlify.app/">Repo</a> <br>
       <a href="https://bidify-auctions.netlify.app">Live site</a>
     </td>
     <td>An auction website where users can view, create and bid on listings using an API to fetch and recieve data.</td>
