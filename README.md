@@ -79,8 +79,8 @@
   </tr>
   <tr>
     <td>
-      GameHub (cross-course project) <br>
-      <a href="https://github.com/MHerholdt94/GameHub">Repo</a> <br>
+      GameHub <br>
+      <a href="https://github.com/MHerholdt94/GameHub">Repo</a> - 
       <a href="https://gamehubnew.netlify.app">Live</a>
     </td>
     <td>A website for a fictional video game retailer where users can buy and sell games as well as read the latest news from the world of gaming.</td>
@@ -89,7 +89,7 @@
   <tr>
     <td>
       Tønsberg Science Museum <br>
-      <a href="https://github.com/MHerholdt94/Tonsberg-Science-Museum">Repo</a> <br>
+      <a href="https://github.com/MHerholdt94/Tonsberg-Science-Museum">Repo</a> - 
       <a href="https://tbgsciencemuseum.netlify.app">Live</a>
     </td>
     <td>A website for a fictional science museum based in my home town. The site is catered to inquisitive, curious children and their families.</td>
@@ -98,7 +98,7 @@
   <tr>
     <td>
       Time/Signature <br>
-      <a href="https://github.com/MHerholdt94/project-exam-1">Repo</a> <br>
+      <a href="https://github.com/MHerholdt94/project-exam-1">Repo</a> - 
       <a href="https://timesignature.netlify.app">Live</a>
     </td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API.</td>
@@ -107,7 +107,7 @@
   <tr>
     <td>
       UrSpace <br>
-      <a href="https://github.com/MHerholdt94/js2-ca">Repo</a> <br>
+      <a href="https://github.com/MHerholdt94/js2-ca">Repo</a> - 
       <a href="https://urspace.netlify.app/">Live</a>
     </td>
     <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
@@ -116,7 +116,7 @@
     <tr>
     <td>
       bidify. <br>
-      <a href="https://bidify-auctions.netlify.app/">Repo</a> <br>
+      <a href="https://bidify-auctions.netlify.app/">Repo</a> - 
       <a href="https://bidify-auctions.netlify.app">Live</a>
     </td>
     <td>An auction website where users can view, create and bid on listings using an API to fetch and recieve data.</td>
