@@ -78,22 +78,38 @@
     <th><img src="https://user-images.githubusercontent.com/81162745/204536623-f4ea7bc7-43ca-4c4a-860d-875ebcee4790.png" height="24" valign="top"/> Progress</th>
   </tr>
   <tr>
-    <td><a href="https://gamehubnew.netlify.app">Cross-Course Project</a></td>
+    <td>
+      GameHub (cross-course project) <br>
+      <a href="https://github.com/MHerholdt94/GameHub">Repo</a> <br>
+      <a href="https://gamehubnew.netlify.app">Live</a>
+    </td>
     <td>A website for a fictional video game retailer where users can buy and sell games as well as read the latest news from the world of gaming.</td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://tbgsciencemuseum.netlify.app">TBG Science Museum</a></td>
+    <td>
+      Tønsberg Science Museum <br>
+      <a href="https://github.com/MHerholdt94/Tonsberg-Science-Museum">Repo</a> <br>
+      <a href="https://tbgsciencemuseum.netlify.app">Live</a>
+    </td>
     <td>A website for a fictional science museum based in my home town. The site is catered to inquisitive, curious children and their families.</td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://timesignature.netlify.app">Time/Signature</a></td>
+    <td>
+      Time/Signature <br>
+      <a href="https://github.com/MHerholdt94/project-exam-1">Repo</a> <br>
+      <a href="https://timesignature.netlify.app">Live</a>
+    </td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API.</td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://urspace.netlify.app/">UrSpace</a></td>
+    <td>
+      UrSpace <br>
+      <a href="https://github.com/MHerholdt94/js2-ca">Repo</a> <br>
+      <a href="https://urspace.netlify.app/">Live</a>
+    </td>
     <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
     <td>✔️</td>
   </tr>
@@ -101,7 +117,7 @@
     <td>
       bidify. <br>
       <a href="https://bidify-auctions.netlify.app/">Repo</a> <br>
-      <a href="https://bidify-auctions.netlify.app">Live site</a>
+      <a href="https://bidify-auctions.netlify.app">Live</a>
     </td>
     <td>An auction website where users can view, create and bid on listings using an API to fetch and recieve data.</td>
     <td>🔄</td>
