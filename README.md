@@ -93,12 +93,15 @@
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://jazzy-creponne-3f2db0.netlify.app/">UrSpace</a></td>
+    <td><a href="https://urspace.netlify.app/">UrSpace</a></td>
     <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
     <td>✔️</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/MHerholdt94/bidify">bidify.</a></td>
+    <td>
+      <a href="https://bidify-auctions.netlify.app/">Repo</a>
+      <a href="https://bidify-auctions.netlify.app">Live site</a>
+    </td>
     <td>An auction website where users can view, create and bid on listings using an API to fetch and recieve data.</td>
     <td>🔄</td>
   </tr>
@@ -124,4 +127,4 @@
 
 <br><br>
 
-Last Edit: 20/11/2023
+Last Edit: 13/12/2023
