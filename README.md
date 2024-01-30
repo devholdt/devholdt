@@ -132,7 +132,7 @@
 <br>
 
 <h3>What am I currently working on</h3>
-<p>Learning about different development platforms and writing a case study on a particular one. I am also looking into learning a new framework, ex. Svelte, Vue.js or Angular.</p>
+<p>Learning about different development platforms and writing a case study on a particular one. I am also learing Astro while building a new portfolio page with it.</p>
 
 <br>
 
@@ -144,4 +144,4 @@
 
 <br><br>
 
-Last Edit: 26/01/2024
+Last Edit: 30/01/2024
