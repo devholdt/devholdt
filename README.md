@@ -126,7 +126,7 @@
   </tr>
   <tr>
     <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
-    <td>A simple portfolio website displaying some of my recent projects as well as a bit about myself and my contact information</td>
+    <td>A simple portfolio website displaying some of my recent projects. Built with Astro and Tailwind CSS.</td>
     <td>🔄</td>
   </tr>
 </table>
@@ -146,4 +146,4 @@
 
 <br><br>
 
-Last Edit: 01/02/2024
+Last Edit: 06/02/2024
