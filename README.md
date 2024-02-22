@@ -41,6 +41,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
   <br>
@@ -125,7 +126,7 @@
     <td>✔️</td>
   </tr>
   <tr>
-    <td><a href="https://mherholdt94.github.io">Portfolio</a></td>
+    <td><a href="https://herholdt.dev">Portfolio</a></td>
     <td>A simple portfolio website displaying some of my recent projects. Built with Astro and Tailwind CSS.</td>
     <td>🔄</td>
   </tr>
@@ -134,7 +135,7 @@
 <br>
 
 <h3>What am I currently working on</h3>
-<p>Learning about different development platforms and writing a case study on a particular one. I am also learing Astro while building a new portfolio page with it.</p>
+<p>Freshing up on React through the JavaScript Frameworks course at Noroff University before creating an eCom website as part of said course.</p>
 
 <br>
 
@@ -146,4 +147,4 @@
 
 <br><br>
 
-Last Edit: 06/02/2024
+Last Edit: 22/02/2024
