@@ -83,7 +83,7 @@
   <tr>
     <td>
       GameHub <br>
-      <a href="https://github.com/MHerholdt94/GameHub">Repo</a> - 
+      <a href="https://github.com/devholdt/GameHub">Repo</a> - 
       <a href="https://gamehubnew.netlify.app">Live</a>
     </td>
     <td>A website for a fictional video game retailer where users can buy and sell games as well as read the latest news from the world of gaming.</td>
@@ -92,7 +92,7 @@
   <tr>
     <td>
       Tønsberg Science Museum <br>
-      <a href="https://github.com/MHerholdt94/Tonsberg-Science-Museum">Repo</a> - 
+      <a href="https://github.com/devholdt/Tonsberg-Science-Museum">Repo</a> - 
       <a href="https://tbgsciencemuseum.netlify.app">Live</a>
     </td>
     <td>A website for a fictional science museum based in my home town. The site is catered to inquisitive, curious children and their families.</td>
@@ -101,7 +101,7 @@
   <tr>
     <td>
       Time/Signature <br>
-      <a href="https://github.com/MHerholdt94/project-exam-1">Repo</a> - 
+      <a href="https://github.com/devholdt/project-exam-1">Repo</a> - 
       <a href="https://timesignature.netlify.app">Live</a>
     </td>
     <td>A website with blog posts about all things drumming. The blog posts is fetched using WordPress REST API.</td>
@@ -110,7 +110,7 @@
   <tr>
     <td>
       UrSpace <br>
-      <a href="https://github.com/MHerholdt94/js2-ca">Repo</a> - 
+      <a href="https://github.com/devholdt/js2-ca">Repo</a> - 
       <a href="https://urspace.netlify.app/">Live</a>
     </td>
     <td>A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API</td>
@@ -119,7 +119,7 @@
     <tr>
     <td>
       bidify. <br>
-      <a href="https://github.com/MHerholdt94/bidify">Repo</a> - 
+      <a href="https://github.com/devholdt/bidify">Repo</a> - 
       <a href="https://bidify-auctions.netlify.app">Live</a>
     </td>
     <td>An auction website where users can view, create and bid on listings using an API to fetch and recieve data.</td>
@@ -140,11 +140,11 @@
 <br>
 
 <h3>Where to find me</h3>
-<a href="https://github.com/mherholdt94" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://github.com/devholdt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mathias-herholdt-b5a5bb204/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Harboldtt" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.codewars.com/users/MHerholdt94" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 
 <br><br>
 
-Last Edit: 22/02/2024
+Last Edit: 23/02/2024
