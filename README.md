@@ -63,10 +63,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MHerholdt94&theme=onedark">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devholdt&theme=onedark">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHerholdt94&theme=onedark">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devholdt&theme=onedark">
     </td>
   </tr>
 </table>
@@ -147,4 +147,4 @@
 
 <br><br>
 
-Last Edit: 23/02/2024
+Last Edit: 01/03/2024
