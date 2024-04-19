@@ -26,7 +26,7 @@
 
 <br>
 
-- **Frameworks, Libraries and Systems**
+- **Frameworks, Libraries & Systems**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
@@ -36,7 +36,7 @@
 
 <br>
 
-- **Softwares and Tools**
+- **Softwares & Tools**
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -46,7 +46,7 @@
 
   <br>
 
- - **Adobe**
+ - **Design, Wireframe & Prototype**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
