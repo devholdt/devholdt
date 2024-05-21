@@ -29,6 +29,7 @@
 - **Frameworks, Libraries & Systems**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -40,6 +41,7 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
@@ -76,12 +78,13 @@
 
 <h3>Projects I've worked on lately</h3>
 
-| 💡&nbsp;Project                                            | 🗒️&nbsp;Description                                                                                                     | ⚙️&nbsp;Progress |
-| :--------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :--------------: |
-| UrSpace <br> [Repo][urs-repo]&nbsp;-&nbsp;[Live][urs-live] | A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API | ✔️               |
-| bidify. <br> [Repo][bid-repo]&nbsp;-&nbsp;[Live][bid-live] | An auction website where users can view, create and bid on listings using an API to fetch and recieve data              | ✔️               |
-| ALLMART <br> [Repo][all-repo]&nbsp;-&nbsp;[Live][all-live] | A website built using React and styled-components showcasing cart functionality                                         | ✔️               |
-| [Portfolio][portfolio]                                     | A simple portfolio website displaying some of my recent projects. Built with Astro and Tailwind CSS                     | 🔄               |
+| 💡&nbsp;Project                                               | 🗒️&nbsp;Description                                                                                                     | ⚙️&nbsp;Progress |
+| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :--------------: |
+| UrSpace <br> [Repo][urs-repo]&nbsp;-&nbsp;[Live][urs-live]    | A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API | ✔️               |
+| bidify. <br> [Repo][bid-repo]&nbsp;-&nbsp;[Live][bid-live]    | An auction website where users can view, create and bid on listings using an API to fetch and recieve data              | ✔️               |
+| ALLMART <br> [Repo][all-repo]&nbsp;-&nbsp;[Live][all-live]    | A website built using React and styled-components showcasing cart functionality                                         | ✔️               |
+| Holidaze <br> [Repo][holi-repo]&nbsp;-&nbsp;[Live][holi-live] | An accomodation website made with Next.js, Typescript and Tailwind CSS as part of Project Exam 2 at Noroff              | 🔄               |
+| [Portfolio][portfolio]                                        | A simple portfolio website displaying some of my recent projects. Built with Astro and Tailwind CSS                     | 🔄               |
 
 <br>
 
@@ -102,7 +105,7 @@ mathiasbherholdt@gmail.com
 
 <br><br>
 
-Last Edit: 19/04/2024
+Last Edit: 21/05/2024
 
 <!-- Reference-style links for projects -->
 [urs-repo]: https://github.com/devholdt/js2-ca
@@ -111,4 +114,6 @@ Last Edit: 19/04/2024
 [bid-live]: https://bidify-auctions.netlify.app
 [all-repo]: https://github.com/devholdt/ALLMART
 [all-live]: https://allmart-react.netlify.app/
+[holi-repo]: https://github.com/devholdt/holidaze-pe2
+[holi-live]: https://holidaze-nextjs.netlify.app/
 [portfolio]: https://herholdt.dev
