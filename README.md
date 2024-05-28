@@ -84,14 +84,13 @@
 | UrSpace <br> [Repo][urs-repo]&nbsp;-&nbsp;[Live][urs-live]    | A simple social media website with front-end CRUD functionality for post content and user profiles using the Noroff API | ✔️               |
 | bidify. <br> [Repo][bid-repo]&nbsp;-&nbsp;[Live][bid-live]    | An auction website where users can view, create and bid on listings using an API to fetch and recieve data              | ✔️               |
 | ALLMART <br> [Repo][all-repo]&nbsp;-&nbsp;[Live][all-live]    | A website built using React and styled-components showcasing cart functionality                                         | ✔️               |
-| Holidaze <br> [Repo][holi-repo]&nbsp;-&nbsp;[Live][holi-live] | An accomodation website made with Next.js, Typescript and Tailwind CSS as part of Project Exam 2 at Noroff              | 🔄               |
+| Holidaze <br> [Repo][holi-repo]&nbsp;-&nbsp;[Live][holi-live] | An accomodation website made with Next.js, Typescript and Tailwind CSS as part of Project Exam 2 at Noroff              | ✔️               |
 | [Portfolio][portfolio]                                        | A simple portfolio website displaying some of my recent projects. Built with Astro and Tailwind CSS                     | 🔄               |
 
 <br>
 
 <h3>What am I currently working on</h3>
-<p>Creating an accomodation booking website as part of my final exam at Noroff. The project is created using Next.js and Tailwind CSS for styling</p>
-<p>I am also learning TypeScript as well as dabbling with some small projects on the side as practice</p>
+<p>Learning new technologies and working on neat little projects!</p>
 
 <br>
 
@@ -106,7 +105,7 @@ mathiasbherholdt@gmail.com
 
 <br><br>
 
-Last Edit: 21/05/2024
+Last Edit: 28/05/2024
 
 <!-- Reference-style links for projects -->
 [urs-repo]: https://github.com/devholdt/js2-ca
