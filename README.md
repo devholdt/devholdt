@@ -96,7 +96,7 @@
 
 <h3>Where to find me</h3>
 
-mathiasbherholdt@gmail.com
+mathias@herholdt.dev
 
 <a href="https://github.com/devholdt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mathias-herholdt-b5a5bb204/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
