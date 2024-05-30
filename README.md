@@ -58,10 +58,10 @@
 
 ### Projects I've worked on lately
 
-[![holidaze Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=holidaze-pe2&theme=dark)](https://github.com/devholdt/github-readme-stats)
-[![bidify Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=bidify&theme=dark)](https://github.com/devholdt/github-readme-stats)
-[![allmart Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=allmart&theme=dark)](https://github.com/devholdt/github-readme-stats)
-[![portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=portfolio&theme=dark)](https://github.com/devholdt/github-readme-stats)
+[![holidaze Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=holidaze-pe2&theme=dark)](https://github.com/devholdt/holidaze-pe2)
+[![bidify Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=bidify&theme=dark)](https://github.com/devholdt/bidify)
+[![allmart Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=allmart&theme=dark)](https://github.com/devholdt/allmart)
+[![portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=portfolio&theme=dark)](https://github.com/devholdt/portfolio)
 
 ---
 
