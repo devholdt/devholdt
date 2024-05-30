@@ -3,106 +3,67 @@
 
 <br>
 
-**About me**
 - From Tønsberg, Norway <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/>
 - Full-Time front-end student at Noroff
 - Music, band, drums, gaming, technology, cats
 - He/Him
+- Reach me at mathias@herholdt.dev
 
-<br>
+<br/>
 
------
+#### Where to find me
 
-<br>
-
-<p align="center">
-  
-  - **Languages**
-    
- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-<br>
-
-- **Frameworks, Libraries & Systems**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-<br>
-
-- **Softwares & Tools**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-
-  <br>
-
- - **Design, Wireframe & Prototype**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![AdobeIllustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  
-</p>
-
-<br>
-
------
-
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devholdt&theme=onedark">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devholdt&theme=onedark">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3>Projects I've worked on lately</h3>
-
-| 💡&nbsp;Project                                               | 🗒️&nbsp;Description                                                                                                     | ⚙️&nbsp;Progress |
-| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :--------------: |
-| bidify. <br> [Repo][bid-repo]&nbsp;-&nbsp;[Live][bid-live]    | An auction website where users can view, create and bid on listings using an API to fetch and recieve data              | ✔️               |
-| ALLMART <br> [Repo][all-repo]&nbsp;-&nbsp;[Live][all-live]    | A small e-com website built using React and styled-components showcasing cart functionality                             | ✔️               |
-| Holidaze <br> [Repo][holi-repo]&nbsp;-&nbsp;[Live][holi-live] | An accomodation website made with Next.js, Typescript and Tailwind CSS as part of Project Exam 2 at Noroff              | ✔️               |
-| [Portfolio][portfolio]                                        | A portfolio website displaying some of my recent projects built with Astro and Tailwind CSS                             | 🔄               |
-
-<br>
-
-<h3>What am I currently working on</h3>
-<p>Learning new technologies and working on neat little projects!</p>
-
-<br>
-
-<h3>Where to find me</h3>
-
-mathias@herholdt.dev
-
-<a href="https://github.com/devholdt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mathias-herholdt-b5a5bb204/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Harboldtt" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.codewars.com/users/MHerholdt94" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+<a href="https://www.instagram.com/mathiasher/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<br><br>
+---
+
+#### Languages
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px" />
+</div>
+  
+#### Frameworks & Libraries
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40px" />
+</div>
+
+#### Softwares & Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40px" />
+</div>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devholdt&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### Projects I've worked on lately
+
+[![holidaze Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=holidaze-pe2&theme=dark)](https://github.com/devholdt/github-readme-stats)
+[![bidify Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=bidify&theme=dark)](https://github.com/devholdt/github-readme-stats)
+[![allmart Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=allmart&theme=dark)](https://github.com/devholdt/github-readme-stats)
+[![portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=portfolio&theme=dark)](https://github.com/devholdt/github-readme-stats)
+
+---
 
 Last Edit: 30/05/2024
 
