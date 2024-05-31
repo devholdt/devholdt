@@ -4,7 +4,7 @@
 <br>
 
 - From Tønsberg, Norway <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/>
-- Full-Time front-end student at Noroff
+- Frontend developer with interest in full-stack
 - Music, band, drums, gaming, technology, cats
 - He/Him
 - Reach me at mathias@herholdt.dev
@@ -65,7 +65,7 @@
 
 ---
 
-Last Edit: 30/05/2024
+Last Edit: 31/05/2024
 
 <!-- Reference-style links for projects -->
 [urs-repo]: https://github.com/devholdt/js2-ca
