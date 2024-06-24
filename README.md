@@ -1,8 +1,6 @@
 
 <h1 align="center"><b>Hello!<img src="https://user-images.githubusercontent.com/81162745/204531600-e3f43e3e-ffb0-4702-a933-aa78d7ad098b.png" width="30"/> I'm Mathias B. Herholdt</b></h1>
 
-<p align="center">:sparkles: Currently available for freelance work! :sparkles:</p>
-
 <br/>
 
 - From Tønsberg, Norway <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/>
