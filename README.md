@@ -34,6 +34,7 @@ Reach me at mathias@herholdt.dev
 #### Frameworks & Libraries
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="40px" />
@@ -51,6 +52,7 @@ Reach me at mathias@herholdt.dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" />
 </div>
 
 ---
@@ -68,7 +70,7 @@ Reach me at mathias@herholdt.dev
 
 ---
 
-Last Edit: 13/06/2024
+Last Edit: 12/08/2024
 
 <!-- Reference-style links for projects -->
 [urs-repo]: https://github.com/devholdt/js2-ca
