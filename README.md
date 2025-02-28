@@ -3,8 +3,8 @@
 
 <br/>
 
+- System developer at CEMAsys.com
 - From Tønsberg, Norway <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/>
-- Full-time frontend developer working on ESG solutions
 - Higher Professional Degree from Noroff University
 - Music, band, drums, gaming, technology, cats
 - He/Him
@@ -70,7 +70,7 @@ Reach me at mathias@herholdt.dev
 
 ---
 
-Last Edit: 25/09/2024
+Last Edit: 28/02/2025
 
 <!-- Reference-style links for projects -->
 [urs-repo]: https://github.com/devholdt/js2-ca
