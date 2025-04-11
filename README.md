@@ -3,7 +3,7 @@
 
 <br/>
 
-- System developer at CEMAsys.com
+- **System Developer** at **CEMAsys.com**
 - From Tønsberg, Norway <img src="https://user-images.githubusercontent.com/81162745/204541275-f9c618a1-6b7f-48fb-bcd0-c512fee6f266.png" width="17" valign="middle"/>
 - Higher Professional Degree from Noroff University
 - Music, band, drums, gaming, technology, cats
@@ -29,6 +29,7 @@ Reach me at mathias@herholdt.dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40px" />
 </div>
   
 #### Frameworks & Libraries
@@ -53,6 +54,8 @@ Reach me at mathias@herholdt.dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" width="40px" />
 </div>
 
 ---
@@ -61,16 +64,7 @@ Reach me at mathias@herholdt.dev
 
 ---
 
-### Projects I've worked on lately
-
-[![holidaze Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=holidaze-pe2&theme=dark)](https://github.com/devholdt/holidaze-pe2)
-[![bidify Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=bidify&theme=dark)](https://github.com/devholdt/bidify)
-[![allmart Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=allmart&theme=dark)](https://github.com/devholdt/allmart)
-[![portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=devholdt&repo=portfolio&theme=dark)](https://github.com/devholdt/portfolio)
-
----
-
-Last Edit: 28/02/2025
+Last Edit: 11/04/2025
 
 <!-- Reference-style links for projects -->
 [urs-repo]: https://github.com/devholdt/js2-ca
